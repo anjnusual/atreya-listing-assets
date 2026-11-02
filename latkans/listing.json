@@ -1,12 +1,12 @@
 {
-  "_status": "DRAFT 2 Nov 2026. Fields marked CONFIRM are estimates from photos. Measure one strand and weigh a packed parcel before going live.",
+  "_status": "Ready to post 2 Nov 2026. Size and weight taken from the closest competitors (34 inch MDF Ganesha set of 2; CraftVatika Ganesha set of 2 at 160 g), per Kalyani.",
   "brand": "Atreya",
   "image_base_url": "https://raw.githubusercontent.com/anjnusual/atreya-listing-assets/claude/gifted-pascal-nzunb5/latkans",
   "shared": {
     "item_highlight": "Ganpati Bandhanwar with Pearl Tassel | Main Door, Mandir and Pooja Room Wall Hanging | Griha Pravesh and Wedding Decor",
     "description": "A Ganesha at the doorway is how many Indian homes begin every festival, and this latkan keeps him there all season. Each strand carries a painted MDF Ganesha at the centre, a white lotus bud above and below him, five gold-finish bells, yellow and rani pink fabric flowers, and a pearl tassel with flower drops that sways and catches the light every time the door opens. Hang one on each side of the main door frame, on either side of the mandir, or behind the Ganpati idol for Ganesh Chaturthi. It works just as well for Diwali, Dhanteras, Lakshmi Puja, Navratri, Griha Pravesh and wedding entrances. Unlike a fresh flower toran, nothing wilts or drops on the floor: dust it with a dry cloth, store it flat in the box, and it is ready again next year. Each latkan has a braided cord loop at the top, so it goes up on a nail, a hook or an adhesive wall hook in seconds. Note: colours can look slightly different on different screens. Keep away from open diya flames.",
     "bullets_template": [
-      "PACK OF {n}, {pack_use}: {n} matching latkans, each about 55 cm (22 inch) long from the cord loop to the tassel. {pack_where}",
+      "PACK OF {n}, {pack_use}: {n} matching latkans, each about 86 cm (34 inch) long from the cord loop to the tassel. {pack_where}",
       "GANESHA, 2 LOTUS BUDS AND 5 BELLS ON EVERY STRAND: A painted MDF Ganesha sits at the centre with a white lotus bud above and below, five gold-finish bells, yellow and rani pink flowers, and a pearl tassel with flower drops at the end.",
       "FOR DIWALI, GANPATI AND GRIHA PRAVESH: Shubh decoration for Diwali, Dhanteras, Lakshmi Puja, Ganesh Chaturthi, Navratri, housewarming and wedding entrances. A thoughtful Diwali gift for parents, newlyweds or a family moving into a new home.",
       "READY TO HANG, NOTHING TO ASSEMBLE: Every latkan has a braided cord loop at the top. Hang it on a nail, a hook or an adhesive wall hook in seconds. Lightweight, so it does not pull on the door frame.",
@@ -21,15 +21,26 @@
     "color": "Multicolour",
     "theme": "Ganesha",
     "style": "Traditional",
-    "occasion_type": ["Diwali", "Ganesh Chaturthi", "Navratri", "Housewarming", "Wedding"],
-    "recommended_uses": ["Main Door", "Pooja Room", "Mandir", "Wall Decoration"],
+    "occasion_type": [
+      "Diwali",
+      "Ganesh Chaturthi",
+      "Navratri",
+      "Housewarming",
+      "Wedding"
+    ],
+    "recommended_uses": [
+      "Main Door",
+      "Pooja Room",
+      "Mandir",
+      "Wall Decoration"
+    ],
     "special_feature": "Ready to Hang, Reusable, With Bells",
     "country_of_origin": "IN",
     "hsn_code": "6702",
     "hsn_note": "CONFIRM: use the same HSN and GST rate as your existing latkans (ATR-GANESH-LOTUS-LATKAN-4).",
-    "strand_length_cm": 55,
-    "strand_width_cm": 9,
-    "size_note": "CONFIRM: 55 x 9 cm is estimated from the photos (plaque assumed 7.5 cm wide). Measure and update other4.jpg if different."
+    "strand_length_cm": 86,
+    "strand_width_cm": 12.7,
+    "size_note": "From competitors, not measured: 34 inch strand (B0FQ5C63LJ), 12.7 cm wide (related listing), 160 g per pair (CraftVatika B0FP5HC7Z6)."
   },
   "skus": [
     {
@@ -40,11 +51,24 @@
       "pack_where": "Hang one on either side of the main door frame, or either side of the mandir.",
       "price_inr": 249,
       "mrp_inr": 599,
-      "quantity": 0,
-      "package_cm": [32, 14, 6],
-      "package_weight_g": 150,
-      "package_note": "CONFIRM package size and weight",
-      "images": ["main.jpg", "other1.jpg", "other2.jpg", "other3.jpg", "other4.jpg", "other5.jpg", "other6.jpg", "other7.jpg"]
+      "quantity": 25,
+      "package_cm": [
+        36,
+        15,
+        5
+      ],
+      "package_weight_g": 200,
+      "package_note": "Item weight 160 g per pair (CraftVatika); package adds about 40 g for the poly bag and box.",
+      "images": [
+        "main.jpg",
+        "other1.jpg",
+        "other2.jpg",
+        "other3.jpg",
+        "other4.jpg",
+        "other5.jpg",
+        "other6.jpg",
+        "other7.jpg"
+      ]
     },
     {
       "sku": "ATR-GANESH-LOTUSBELL-LATKAN-4",
@@ -54,11 +78,25 @@
       "pack_where": "Enough for both sides of the main door and both sides of the mandir or pooja room.",
       "price_inr": 399,
       "mrp_inr": 999,
-      "quantity": 0,
-      "package_cm": [32, 16, 10],
-      "package_weight_g": 280,
-      "package_note": "CONFIRM package size and weight",
-      "images": ["main.jpg", "other1.jpg", "other2.jpg", "other3.jpg", "other4.jpg", "other5.jpg", "other6.jpg", "other7.jpg", "other8.jpg"]
+      "quantity": 25,
+      "package_cm": [
+        36,
+        18,
+        8
+      ],
+      "package_weight_g": 380,
+      "package_note": "Item weight 160 g per pair (CraftVatika); package adds about 40 g for the poly bag and box.",
+      "images": [
+        "main.jpg",
+        "other1.jpg",
+        "other2.jpg",
+        "other3.jpg",
+        "other4.jpg",
+        "other5.jpg",
+        "other6.jpg",
+        "other7.jpg",
+        "other8.jpg"
+      ]
     }
   ],
   "aplus": {
@@ -75,9 +113,24 @@
         "type": "STANDARD_THREE_IMAGE_TEXT",
         "headline": "What makes each strand",
         "blocks": [
-          {"image": "aplus/aplus_2a_ganesha_300x300.jpg", "alt": "Close-up of the painted MDF Ganesha plaque", "headline": "Painted Ganesha", "body": "An MDF Ganesha sits at the centre of every strand, painted in saffron and yellow and facing outward to greet whoever walks in."},
-          {"image": "aplus/aplus_2b_lotus_300x300.jpg", "alt": "White and pink lotus buds with green leaves", "headline": "Lotus above and below", "body": "Two white lotus buds with green leaves frame the Ganesha, the kamal that belongs at every pooja doorway."},
-          {"image": "aplus/aplus_2c_bells_pearls_300x300.jpg", "alt": "Gold bell and pearl tassel at the end of the latkan", "headline": "Bells and pearl tassel", "body": "Five gold-finish bells per strand and a pearl tassel with flower drops that sways every time the door opens."}
+          {
+            "image": "aplus/aplus_2a_ganesha_300x300.jpg",
+            "alt": "Close-up of the painted MDF Ganesha plaque",
+            "headline": "Painted Ganesha",
+            "body": "An MDF Ganesha sits at the centre of every strand, painted in saffron and yellow and facing outward to greet whoever walks in."
+          },
+          {
+            "image": "aplus/aplus_2b_lotus_300x300.jpg",
+            "alt": "White and pink lotus buds with green leaves",
+            "headline": "Lotus above and below",
+            "body": "Two white lotus buds with green leaves frame the Ganesha, the kamal that belongs at every pooja doorway."
+          },
+          {
+            "image": "aplus/aplus_2c_bells_pearls_300x300.jpg",
+            "alt": "Gold bell and pearl tassel at the end of the latkan",
+            "headline": "Bells and pearl tassel",
+            "body": "Five gold-finish bells per strand and a pearl tassel with flower drops that sways every time the door opens."
+          }
         ]
       },
       {
@@ -105,7 +158,7 @@
     "title_4": "Atreya Ganesh Lotus Latkan with Bells and Pearl Tassel Pack of 4 Toran",
     "key_features": [
       "Painted MDF Ganesha with 2 lotus buds and 5 bells on every strand",
-      "Approx 55 cm long, ready to hang with cord loop",
+      "Approx 86 cm (34 inch) long, ready to hang with cord loop",
       "Pearl tassel with flower drops",
       "For main door, mandir, Diwali, Ganpati and Griha Pravesh",
       "Reusable fabric flowers that do not wilt"

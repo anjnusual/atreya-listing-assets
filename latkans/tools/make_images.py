@@ -4,8 +4,8 @@ import sys, os
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 SRC, OUT, FONTS = sys.argv[1], sys.argv[2], sys.argv[3]
-LENGTH_TXT = "approx. 55 cm  |  22 inch"   # ESTIMATE from photos - confirm with a tape
-WIDTH_TXT = "approx. 9 cm"
+LENGTH_TXT = "approx. 86 cm  |  34 inch"
+WIDTH_TXT = "approx. 12.7 cm  |  5 inch"
 
 S = 1600
 MAROON = (139, 46, 46); INK = (59, 36, 24); BODY = (88, 66, 52); GOLD = (176, 132, 60)
