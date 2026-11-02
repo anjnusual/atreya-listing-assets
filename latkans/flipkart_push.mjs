@@ -16,7 +16,8 @@ const args = process.argv.slice(2);
 const arg = (k) => (args.includes(k) ? args[args.indexOf(k) + 1] : undefined);
 const LIVE = args.includes('--live');
 const envPath = arg('--env') || 'E:/atreya/listing/atreya-aplus/.env';
-for (const line of readFileSync(envPath, 'utf8').split(/\r?\n/)) {
+import { existsSync } from 'node:fs';
+for (const line of (existsSync(envPath) ? readFileSync(envPath, 'utf8') : '').split(/\r?\n/)) {
   const m = line.match(/^\s*([A-Z0-9_]+)\s*=\s*"?(.*?)"?\s*$/);
   if (m && !process.env[m[1]]) process.env[m[1]] = m[2];
 }
